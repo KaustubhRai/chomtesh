@@ -4,7 +4,7 @@ FROM kalilinux/kali-rolling
 WORKDIR /app
 
 # Set version variables
-ENV GO_VERSION=1.21.5
+ENV GO_VERSION=1.21.6
 ENV TRUFFLEHOG_VERSION=3.63.7
 
 # Install dependencies
