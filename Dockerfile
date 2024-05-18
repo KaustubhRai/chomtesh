@@ -63,7 +63,7 @@ RUN go install github.com/tomnomnom/anew@latest
 RUN go install github.com/tomnomnom/gf@latest
 RUN go install github.com/ameenmaali/qsinject@latest
 RUN go install github.com/tomnomnom/qsreplace@latest
-RUN go install github.com/haccer/subjack@latest
+RUN go install github.com/haccer/subjack@49c51e57deab5d23207742d93e3af487ac110deb
 RUN go install github.com/rverton/webanalyze/cmd/webanalyze@latest
 RUN go install github.com/bp0lr/dmut@latest
 RUN go install github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
